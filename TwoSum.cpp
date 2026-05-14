@@ -1,4 +1,5 @@
 //LeetCode Problem Number 1 - Two Sum
+//Difficulty - Easy
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) 

@@ -1,4 +1,5 @@
 //LeetCode Problem Number 20 - Valid Parentheses
+//Difficulty - Easy
 class Solution 
 {
 public:
