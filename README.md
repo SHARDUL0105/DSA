@@ -21,9 +21,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/SHARDUL0105/DSA/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/SHARDUL0105/DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/SHARDUL0105/DSA/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SHARDUL0105/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
