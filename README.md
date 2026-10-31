@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/SHARDUL0105/DSA/tree/master/1768-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/SHARDUL0105/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
