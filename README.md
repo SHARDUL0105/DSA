@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SHARDUL0105/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1768-merge-strings-alternately](https://github.com/SHARDUL0105/DSA/tree/master/1768-merge-strings-alternately) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SHARDUL0105/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/SHARDUL0105/DSA/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
